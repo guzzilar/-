@@ -13,7 +13,7 @@
     "ja-kana" => "ちいさい",
     "th"      => "เล็ก",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/lek.mp3",
   ],
   [
     "en"      => "Cheap",
@@ -21,7 +21,7 @@
     "ja-kana" => "やすい",
     "th"      => "ถูก",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/took.mp3",
   ],
   [
     "en"      => "Expensive",
@@ -29,7 +29,7 @@
     "ja-kana" => "たかい",
     "th"      => "แพง",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/paeng.mp3",
   ],
   [
     "en"      => "Dark",
@@ -37,7 +37,7 @@
     "ja-kana" => "くらい",
     "th"      => "มืด",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/muead.mp3",
   ],
   [
     "en"      => "Light",
@@ -45,7 +45,7 @@
     "ja-kana" => "あかるい",
     "th"      => "สว่าง",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/sawang.mp3",
   ],
   [
     "en"      => "Delicious",
@@ -53,7 +53,7 @@
     "ja-kana" => "おいしい",
     "th"      => "อร่อย",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/aroi.mp3",
   ],
   [ 
     "en"      => "Bad tasting",
@@ -61,7 +61,7 @@
     "ja-kana" => "まずい",
     "th"      => "ไม่อร่อย",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/maiaroi.mp3",
   ],
   [ 
     "en"      => "Difficult",
@@ -69,7 +69,7 @@
     "ja-kana" => "むずかしい",
     "th"      => "ยาก",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/yak.mp3",
   ],
   [ 
     "en"      => "Good",
@@ -77,15 +77,15 @@
     "ja-kana" => "いい / よい",
     "th"      => "ดี",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/dee.mp3",
   ],
   [ 
     "en"      => "Bad",
     "ja"      => "悪い",
     "ja-kana" => "わるい",
-    "th"      => "แย่",
+    "th"      => "แย่, ไม่ดี",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/yae-maidee.mp3",
   ],
   [ 
     "en"      => "Heavy",
