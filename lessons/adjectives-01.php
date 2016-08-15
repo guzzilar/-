@@ -93,7 +93,7 @@
     "ja-kana" => "おもい",
     "th"      => "หนัก",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/nak.mp3",
   ],
   [ 
     "en"      => "Light (in weight)",
@@ -101,7 +101,7 @@
     "ja-kana" => "かるい",
     "th"      => "เบา",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/bao.mp3",
   ],
   [ 
     "en"      => "Hot",
@@ -109,7 +109,7 @@
     "ja-kana" => "あつい",
     "th"      => "ร้อน",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/roan.mp3",
   ],
   [ 
     "en"      => "Hot (weather) ",
@@ -117,7 +117,7 @@
     "ja-kana" => "あつい",
     "th"      => "ร้อน",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/roan.mp3",
   ],
    [ 
     "en"      => "Warm",
