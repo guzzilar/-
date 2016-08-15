@@ -1,3 +1,294 @@
+<?php $data = [
+  [
+    "en"      => "Big",
+    "ja"      => "大きい",
+    "ja-kana" => "おおきい",
+    "th"      => "ใหญ่",
+    "th-kana" => "ヤイ (rising tone)",
+    "audio"   => "resources/adjectives-01/yai.mp3",
+  ],
+  [
+    "en"      => "Small",
+    "ja"      => "小さい",
+    "ja-kana" => "ちいさい",
+    "th"      => "เล็ก",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [
+    "en"      => "Cheap",
+    "ja"      => "安い",
+    "ja-kana" => "やすい",
+    "th"      => "ถูก",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [
+    "en"      => "Expensive",
+    "ja"      => "高い",
+    "ja-kana" => "たかい",
+    "th"      => "แพง",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [
+    "en"      => "Dark",
+    "ja"      => "暗い",
+    "ja-kana" => "くらい",
+    "th"      => "มืด",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [
+    "en"      => "Light",
+    "ja"      => "明るい",
+    "ja-kana" => "あかるい",
+    "th"      => "สว่าง",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [
+    "en"      => "Delicious",
+    "ja"      => "-",
+    "ja-kana" => "おいしい",
+    "th"      => "อร่อย",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Bad tasting",
+    "ja"      => "-",
+    "ja-kana" => "まずい",
+    "th"      => "ไม่อร่อย",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Difficult",
+    "ja"      => "難しい",
+    "ja-kana" => "むずかしい",
+    "th"      => "ยาก",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Good",
+    "ja"      => "いい / 良い",
+    "ja-kana" => "いい / よい",
+    "th"      => "ดี",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Bad",
+    "ja"      => "悪い",
+    "ja-kana" => "わるい",
+    "th"      => "แย่",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Heavy",
+    "ja"      => "重い",
+    "ja-kana" => "おもい",
+    "th"      => "หนัก",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Light (in weight)",
+    "ja"      => "軽い",
+    "ja-kana" => "かるい",
+    "th"      => "เบา",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Hot",
+    "ja"      => "熱い",
+    "ja-kana" => "あつい",
+    "th"      => "ร้อน",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Hot (weather) ",
+    "ja"      => "暑い",
+    "ja-kana" => "あつい",
+    "th"      => "ร้อน",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+   [ 
+    "en"      => "Warm",
+    "ja"      => "温かい",
+    "ja-kana" => "あたたかい",
+    "th"      => "อุ่น",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Warm (weather)",
+    "ja"      => "暖かい",
+    "ja-kana" => "あたたかい",
+    "th"      => "อุ่น",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Cold",
+    "ja"      => "冷たい",
+    "ja-kana" => "つめたい",
+    "th"      => "เย็น",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Cold (weather)",
+    "ja"      => "寒い",
+    "ja-kana" => "さむい",
+    "th"      => "เย็น",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Hot and humid",
+    "ja"      => "蒸し暑い",
+    "ja-kana" => "むしあつい",
+    "th"      => "ร้อนชื้น",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Long",
+    "ja"      => "長い",
+    "ja-kana" => "ながい",
+    "th"      => "ยาว",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Short (in length)",
+    "ja"      => "短い",
+    "ja-kana" => "みじかい",
+    "th"      => "สั้น",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "New",
+    "ja"      => "新しい",
+    "ja-kana" => "あたらしい",
+    "th"      => "ใหม่",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Old",
+    "ja"      => "古い",
+    "ja-kana" => "ふるい",
+    "th"      => "เก่า",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Narrow",
+    "ja"      => "狭い",
+    "ja-kana" => "せまい",
+    "th"      => "แคบ",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Wide",
+    "ja"      => "広い",
+    "ja-kana" => "ひろい",
+    "th"      => "กว้าง",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Tall",
+    "ja"      => "高い",
+    "ja-kana" => "たかい",
+    "th"      => "สูง",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Short (in height)",
+    "ja"      => "低い",
+    "ja-kana" => "ひくい",
+    "th"      => "สั้น (general) / เตี้ย (a bit casual)",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Quick",
+    "ja"      => "速い",
+    "ja-kana" => "はやい",
+    "th"      => "เร็ว",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Slow",
+    "ja"      => "遅い",
+    "ja-kana" => "おそい",
+    "th"      => "ช้า",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Interesting",
+    "ja"      => "面白い",
+    "ja-kana" => "おもしろい",
+    "th"      => "น่าสนใจ",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Busy",
+    "ja"      => "忙しい",
+    "ja-kana" => "いそがしい",
+    "th"      => "ยุ่ง",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Fun",
+    "ja"      => "楽しい",
+    "ja-kana" => "たのしい",
+    "th"      => "สนุก",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [ 
+    "en"      => "Cool/attractive/has good form",
+    "ja"      => "格好いい",
+    "ja-kana" => "かっこういい",
+    "th"      => "เท่",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [
+    "en"      => "Early",
+    "ja"      => "早い",
+    "ja-kana" => "はやい",
+    "th"      => "เร็ว",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+  [
+    "en"      => "Late",
+    "ja"      => "晩い",
+    "ja-kana" => "おそい",
+    "th"      => "ช้า / สาย",
+    "th-kana" => "",
+    "audio"   => "",
+  ],
+]; ?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -32,307 +323,43 @@
             <thead>
               <tr style="background: #FFFF99">
                 <th>English</th>
-                <th>Japanese</th>
-                <th>Kana</th>
+                <th class="hidden-xs">Japanese</th>
+                <th class="hidden-xs">Kana</th>
                 <th>Thai</th>
                 <th>(TH Kana)</th>
-                <th>Listen</th>
+                <th class="hidden-xs">Listen</th>
               </tr>
             </thead>
             <tbody>
-              <tr> 
-                <td>Big</td>
-                <td>大きい</td>
-                <td>おおきい</td>
-                <td>ใหญ่</td>
-                <td>ヤイ (rising tone)</td>
-                <td>
-                  <audio controls width="10px">
-                    <source  src="resources/adjectives-01/yai.mp3" type="audio/mpeg">
-                    Your browser does not support the audio element.
-                  </audio>
-                </td>
-              </tr>
-              <tr> 
-                <td>Small</td>
-                <td>小さい</td>
-                <td>ちいさい</td>
-                <td>เล็ก</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Cheap</td>
-                <td>安い</td>
-                <td>やすい</td>
-                <td>ถูก</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Expensive</td>
-                <td>高い</td>
-                <td>たかい</td>
-                <td>แพง</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Dark</td>
-                <td>暗い</td>
-                <td>くらい</td>
-                <td>มืด</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Light</td>
-                <td>明るい</td>
-                <td>あかるい</td>
-                <td>สว่าง</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Delicious</td>
-                <td>-</td>
-                <td>おいしい</td>
-                <td>อร่อย</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Bad tasting</td>
-                <td>-</td>
-                <td>まずい</td>
-                <td>ไม่อร่อย</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Difficult</td>
-                <td>難しい</td>
-                <td>むずかしい</td>
-                <td>ยาก</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Good</td>
-                <td>いい / 良い</td>
-                <td>いい / よい</td>
-                <td>ดี</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Bad</td>
-                <td>悪い</td>
-                <td>わるい</td>
-                <td>แย่</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Heavy</td>
-                <td>重い</td>
-                <td>おもい</td>
-                <td>หนัก</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Light (in weight)</td>
-                <td>軽い</td>
-                <td>かるい</td>
-                <td>เบา</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Hot</td>
-                <td>熱い</td>
-                <td>あつい</td>
-                <td>ร้อน</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Hot (weather) </td>
-                <td>暑い</td>
-                <td>あつい</td>
-                <td>ร้อน</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-               <tr> 
-                <td>Warm</td>
-                <td>温かい</td>
-                <td>あたたかい</td>
-                <td>อุ่น</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Warm (weather)</td>
-                <td>暖かい</td>
-                <td>あたたかい</td>
-                <td>อุ่น</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Cold</td>
-                <td>冷たい</td>
-                <td>つめたい</td>
-                <td>เย็น</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Cold (weather)</td>
-                <td>寒い</td>
-                <td>さむい</td>
-                <td>เย็น</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Hot and humid</td>
-                <td>蒸し暑い</td>
-                <td>むしあつい</td>
-                <td>ร้อนชื้น</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Long</td>
-                <td>長い</td>
-                <td>ながい</td>
-                <td>ยาว</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Short (in length)</td>
-                <td>短い</td>
-                <td>みじかい</td>
-                <td>สั้น</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>New</td>
-                <td>新しい</td>
-                <td>あたらしい</td>
-                <td>ใหม่</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Old</td>
-                <td>古い</td>
-                <td>ふるい</td>
-                <td>เก่า</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Narrow</td>
-                <td>狭い</td>
-                <td>せまい</td>
-                <td>แคบ</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Wide</td>
-                <td>広い</td>
-                <td>ひろい</td>
-                <td>กว้าง</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Tall</td>
-                <td>高い</td>
-                <td>たかい</td>
-                <td>สูง</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Short (in height)</td>
-                <td>低い</td>
-                <td>ひくい</td>
-                <td>สั้น (general) / เตี้ย (a bit casual)</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Quick</td>
-                <td>速い</td>
-                <td>はやい</td>
-                <td>เร็ว</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Slow</td>
-                <td>遅い</td>
-                <td>おそい</td>
-                <td>ช้า</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Interesting</td>
-                <td>面白い</td>
-                <td>おもしろい</td>
-                <td>น่าสนใจ</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Busy</td>
-                <td>忙しい</td>
-                <td>いそがしい</td>
-                <td>ยุ่ง</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Fun</td>
-                <td>楽しい</td>
-                <td>たのしい</td>
-                <td>สนุก</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr> 
-                <td>Cool/attractive/has good form</td>
-                <td>格好いい</td>
-                <td>かっこういい</td>
-                <td>เท่</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr>
-                <td>Early</td>
-                <td>早い</td>
-                <td>はやい</td>
-                <td>เร็ว</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
-              <tr>
-                <td>Late</td>
-                <td>晩い</td>
-                <td>おそい</td>
-                <td>ช้า / สาย</td>
-                <td>-</td>
-                <td>-</td>
-              </tr>
+              <?php foreach ($data as $key => $value) : ?>
+                <tr> 
+                  <td><?php echo $value['en']; ?></td>
+                  <td class="hidden-xs"><?php echo $value['ja']; ?></td>
+                  <td class="hidden-xs"><?php echo $value['ja-kana']; ?></td>
+                  <td><?php echo $value['th']; ?></td>
+                  <td><?php echo $value['th-kana']; ?></td>
+                  <td class="hidden-xs">
+                    <?php if (! empty($value['audio'])) : ?>
+                      <audio controls width="10px">
+                        <source  src="<?php echo $value['audio']; ?>" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                      </audio>
+                    <?php endif; ?>
+                  </td>
+                </tr>
+                <tr class="hidden-sm hidden-md hidden-lg" style="">
+                  <td colspan="3" style="border-bottom-width: 4px; padding-bottom: 20px; color: #888;">
+                    <?php echo $value['ja']; ?> <small>(<?php echo $value['ja-kana']; ?>)</small>
+                    <?php if (! empty($value['audio'])) : ?>
+                      <br/>
+                      <audio controls width="10px">
+                        <source  src="<?php echo $value['audio']; ?>" type="audio/mpeg">
+                        Your browser does not support the audio element.
+                      </audio>
+                    <?php endif; ?>
+                  </td>
+                </tr>
+              <?php endforeach; ?>
             </tbody>
           </table>
         </div>
