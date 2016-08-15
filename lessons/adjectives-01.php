@@ -266,7 +266,7 @@
   [ 
     "en"      => "Cool/attractive/has good form",
     "ja"      => "格好いい",
-    "ja-kana" => "かっこういい",
+    "ja-kana" => "かっこいい",
     "th"      => "เท่",
     "th-kana" => "",
     "audio"   => "",
