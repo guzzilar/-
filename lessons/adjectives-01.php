@@ -125,7 +125,7 @@
     "ja-kana" => "あたたかい",
     "th"      => "อุ่น",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/aoon.mp3",
   ],
   [ 
     "en"      => "Warm (weather)",
@@ -133,7 +133,7 @@
     "ja-kana" => "あたたかい",
     "th"      => "อุ่น",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/aoon.mp3",
   ],
   [ 
     "en"      => "Cold",
@@ -141,7 +141,7 @@
     "ja-kana" => "つめたい",
     "th"      => "เย็น",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/yen.mp3",
   ],
   [ 
     "en"      => "Cold (weather)",
@@ -149,7 +149,7 @@
     "ja-kana" => "さむい",
     "th"      => "เย็น",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/yen.mp3",
   ],
   [ 
     "en"      => "Hot and humid",
@@ -157,7 +157,7 @@
     "ja-kana" => "むしあつい",
     "th"      => "ร้อนชื้น",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/roan-shuen.mp3",
   ],
   [ 
     "en"      => "Long",
@@ -165,7 +165,7 @@
     "ja-kana" => "ながい",
     "th"      => "ยาว",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/yao.mp3",
   ],
   [ 
     "en"      => "Short (in length)",
@@ -173,7 +173,7 @@
     "ja-kana" => "みじかい",
     "th"      => "สั้น",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/sun.mp3",
   ],
   [ 
     "en"      => "New",
@@ -181,7 +181,7 @@
     "ja-kana" => "あたらしい",
     "th"      => "ใหม่",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/mai.mp3",
   ],
   [ 
     "en"      => "Old",
@@ -189,7 +189,7 @@
     "ja-kana" => "ふるい",
     "th"      => "เก่า",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/gao.mp3",
   ],
   [ 
     "en"      => "Narrow",
@@ -197,7 +197,7 @@
     "ja-kana" => "せまい",
     "th"      => "แคบ",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/kab.mp3",
   ],
   [ 
     "en"      => "Wide",
@@ -205,7 +205,7 @@
     "ja-kana" => "ひろい",
     "th"      => "กว้าง",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/kwang.mp3",
   ],
   [ 
     "en"      => "Tall",
@@ -213,7 +213,7 @@
     "ja-kana" => "たかい",
     "th"      => "สูง",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/soong.mp3",
   ],
   [ 
     "en"      => "Short (in height)",
@@ -221,7 +221,7 @@
     "ja-kana" => "ひくい",
     "th"      => "สั้น (general) / เตี้ย (a bit casual)",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/sun-tear.mp3",
   ],
   [ 
     "en"      => "Quick",
@@ -229,7 +229,7 @@
     "ja-kana" => "はやい",
     "th"      => "เร็ว",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/raew.mp3",
   ],
   [ 
     "en"      => "Slow",
@@ -237,7 +237,7 @@
     "ja-kana" => "おそい",
     "th"      => "ช้า",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/sha.mp3",
   ],
   [ 
     "en"      => "Interesting",
@@ -245,7 +245,7 @@
     "ja-kana" => "おもしろい",
     "th"      => "น่าสนใจ",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/nasonjai.mp3",
   ],
   [ 
     "en"      => "Busy",
@@ -253,7 +253,7 @@
     "ja-kana" => "いそがしい",
     "th"      => "ยุ่ง",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/yoong.mp3",
   ],
   [ 
     "en"      => "Fun",
@@ -261,7 +261,7 @@
     "ja-kana" => "たのしい",
     "th"      => "สนุก",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/sanook.mp3",
   ],
   [ 
     "en"      => "Cool/attractive/has good form",
@@ -269,7 +269,7 @@
     "ja-kana" => "かっこいい",
     "th"      => "เท่",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/tae.mp3",
   ],
   [
     "en"      => "Early",
@@ -277,7 +277,7 @@
     "ja-kana" => "はやい",
     "th"      => "เร็ว",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/raew.mp3",
   ],
   [
     "en"      => "Late",
@@ -285,7 +285,7 @@
     "ja-kana" => "おそい",
     "th"      => "ช้า / สาย",
     "th-kana" => "",
-    "audio"   => "",
+    "audio"   => "resources/adjectives-01/sha-sai.mp3",
   ],
 ]; ?>
 
